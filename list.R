@@ -1,0 +1,7 @@
+peter <- list(name = 'Peter', age = 30, glasses = TRUE)
+print(peter)
+print(peter[1])
+print(peter$name)
+print(peter[['name']])
+print(peter[['na']])
+print(peter[['na', exact = FALSE]])

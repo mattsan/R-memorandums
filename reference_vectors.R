@@ -1,0 +1,7 @@
+v <- seq(0, 100, by = 25)
+print(v)
+print(v[2])
+print(v[3])
+print(v[2:4])
+print(c(2 ,4))
+print(v[[3]])
